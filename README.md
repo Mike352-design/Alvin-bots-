@@ -1,7 +1,7 @@
-<h1 align="center"> KHAN-MD V-1.3</h1>
+<h1 align="center"> GRACIE-MD V-1.3</h1>
 
 <p align="center">
-  <a href="https://github.com/JawadTechX"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=KHAN-MD-+v1.3+MultiDevice;Developed+by+JawadTechX;Give+star+and+forks+this+Repo+🌟" alt="JawadTechXReadme"></a>
+  <a href="https://github.com/Mike352-design"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=GRACIE-MD-+v1.3+MultiDevice;Developed+by+ALVINO;Give+star+and+forks+this+Repo+🌟" alt="Mike352-designReadme"></a>
 </p>
 
 <details>
@@ -42,7 +42,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/JawadTechX/KHAN-MD/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Mike352-design/Alvin-bots-/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
