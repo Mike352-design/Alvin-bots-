@@ -1,104 +1,146 @@
-#        _GRACIE_ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
+<h1 align="center"> KHAN-MD V-1.3</h1>
 
-   <a>
-                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
-            
-<p align="center"> 
-<up A simple WhatsApp User Bot Coded By ALVIN</u>
+<p align="center">
+  <a href="https://github.com/JawadTechX"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=KHAN-MD-+v1.3+MultiDevice;Developed+by+JawadTechX;Give+star+and+forks+this+Repo+🌟" alt="JawadTechXReadme"></a>
 </p>
-<p align="center">
-<img src="https://files.catbox.moe/yedfbr.jpg"/>       
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+GRACIE-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALVIN❤️+MD+TECHS;RELEASED+DATE+03%2F10%2F2024."                               alt="Typing SVG" /></a>
-</p> 
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID_TECH-red.svg?style=for-the-badge&logo=github"></a>
-</a>
+
+<details>
+<summary> VIEW CHANGELOG V-1.3.0 ⬇️ </summary>
+  
+- **All Downloaders Fixed Now.**
+
+- **Reply With Status Seen Added.**
+ 
+- **Fixed Gpt/Gpt4 Command Now.**
+ 
+- **Overall Performance Improved.**
+
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<a><img src='https://i.imgur.com/PeFnIca.jpeg'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+  <p align="center">
+<a href="https://github.com/JawadTechX/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadTechX?color=blue&style=flat-square"></a>
+<a href="https://github.com/JawadTechX/KHAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JawadTechX/KHAN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/JawadTechX/KHAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JawadTechX/KHAN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/JawadTechX/KHAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/JawadTechX/KHAN-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/JawadTechX/KHAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
+<p align='center'>
+</p>
+
 <p align="center">
-<a href="https://github.com/Popkiddevs"><img title="Author" src="https://img.shields.io/badge/POPKID-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
-<p/>
+<a href="https://github.com/JawadTechX"><img title="Author" src="https://img.shields.io/badge/JawadTechX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>
 
- <p align="center">
-  <a href="https://kg-site-support.vercel.app/">
-    <img src="https://img.shields.io/badge/POPKID WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
-  </a>
-   
-<p align="center">
-<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Popkiddevs/NORMAL-BOT-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkiddevs/NORMAL-BOT-MD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkiddevs/NORMAL-BOT-MD?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        <a href = ""><img alt="Popkid Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
+ <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="JawadTechX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadTechX}/count.svg" /></p>
 
-### 1. FORK THIS REPO
+### 1. Fork This Repository
 
-<a href='https://github.com/Mike352-design/Alvin-bots-/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
-<p align="center">
+Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-#### 𝐒𝐄𝐓𝐔𝐏
+  <a href="https://github.com/JawadTechX/KHAN-MD/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. Get Session ID 
 
+Click on Paring Code To Get Seasion ID To Start The KHAN-MD If Getting Error Use VPN
 
-1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
+ > Get Pair Code (Server 1)
 
-<a href="https://popkidsessionscodes-6ca29832640a.herokuapp.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-<a href="https://popkidsessionscodes-6ca29832640a.herokuapp.com/"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a> 
-
-## How To Deploy On Github.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/T77rQM7Nk5k?si=gg-LJxS6vC6kBEpJ)
-#### DEPLOY TO HEROKU 
-
-1. If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://heroku.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-blue?style=for-the-badge&logo=heroku'/></a>
-   <br>
-2. Now Deploy
-    <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Popkiddevs/NORMAL-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=heroku'/></a>
-
-#### DEPLOY TO KOYEB 
-
-1. If You don't have a account in koyeb. Create a account.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb'/></a>
-
-2. Get [Koyeb api key](https://app.koyeb.com/account/api)
-
-4. Now Deploy
-    <br>
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/Kgtech-cmr/KERM_MD-V2&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=private&env[HANDLER]=.&env[BOT_INFO]=POPKID_MD-V2;ASWIN%20SPARKY;https://i.imgur.com/QH7T7u9.jpeg&env[SUDO]=237656520674,237650564445&env[STICKER_DATA]=KG TECH&env[DATABASE_URL]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
-
-#### DEPLOY ON RAILWAY
-
-1. If You don't have a account in Railway. Create a account.
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway'/>
-2. Now Deploy
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway'/></a>
-
-#### DEPLOY ON MOGENIUS
-
-1. If You don't have a account in Replit. Create a account.
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=genius'/></a>
-2. Now Deploy
-    <br>
-<a href='https://mogenius.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=genius'/></a>
-
-  **Do not forget to give a star⭐️ please**
-
-### A special thank to
-
-<details close>
-<summary>Read More</summary>
-
+<a href='https://immense-ilka-pairxp-85b48d33.koyeb.app/code' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 <br>
 
-* [`GOD`](https://github.com/Popkiddevs)
-* ## Contact Dev of POPKID🤪
-* [`POPKID`](https://wa.me/254111385747?text=Hi+Bro+Rayan+Big+Fan😍)
-* [`POPKID`](https://wa.me/254732297194?text=Hi+Bro+Giffareno+Big+Fan😍)
- </details>
+> Get Pair Code (Server 2)
+
+<a href='https://central-evania-ultramd-707742b1.koyeb.app/' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+
+## **DEPLOY TO HEROKU**
+
+*Follow The Steps To Deploy On Heroku*
+
+1. **Create a Heroku Account:**
+
+   If you don't already have a Heroku account, create one by clicking the button below:
+
+   <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=red'/></a>
+
+2. **Deploy the Bot:**
+
+   Once your Heroku account is ready, deploy the bot by clicking the button below:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+
+
+## **DEPLOY TO KOYEB**
+
+*Follow The Steps To Deploy On koyeb*
+
+1. **Create a Koyeb Account:**
+
+   If You don't have a account in koyeb. Create a account.
+    <br>
+<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+3. Create [DATABASE_URL](https://app.koyeb.com/database-services/new) and copy it
+
+4. Get [Koyeb API_KEY](https://app.koyeb.com/settings/api) and copy it
+
+2. **Deploy On Koyeb:**
+  
+   Now its ready to deploy on koyeb.
+   <br>
+    <a href='https://app.koyeb.com/services/deploy?type=git&repository=JawadTechX/KHAN-MD&ports=3000;http;/&env[SESSION_ID]=null&env[MODE]=public&env[PREFIX]=.&env&env[PORT]=3000&[KOYEB]=true&env[AUTO_REJECT_CALLS]=false&env[WELCOME]=false&env[AUTO_READ_STATUS]=true&env[STATUS_READ_MSG]=KHAN-MD&env[AUTO_REPLY_STATUS]=false&env[AUTO_READ_MESSAGES]=false&env[ALWAYS_ONLINE]=false&env[AUTO_RECORDING]=false&env[AUTO_TYPING]=false&env[AUTO_REACT]=false&env[AUTO_BLOCK]=false&env[KOYEB_NAME]=khanmd&builder=dockerfile' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+### Other Deployments
+
+--------
+  #### DEPLOY IN REPLIT
+
+   <a href='https://repl.it/github/JawadTechX/KHAN-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+--------
+
+  #### DEPLOY TO CODESPACE
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+--------
+
+   #### DEPLOY TO RENDER
+
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+
+--------
+   #### DEPLOY TO RAILWAY
+
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+
+ -------- 
+ 
+## Spical Thanks To 🔻 
+
+> <a href="https://github.com/Itxxwasi">WASI TECH</a> To Resolve Errors In Bot.
+
+> <a href="https://github.com/ROMEKTRICKS">ROMEKTRICKS</a> For Helping In Coding.
+
+> <a href="https://youtube.com/@mazari_technical304">MAZARI TECHNICAL</a> For Fixing Downloaders .
+
+ --------
+
+## 🌐 WhatsApp Channel 
+
+Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
+
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t)
+
+
+## ⚠️ Reminder
+
+- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
+- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
+- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
+
+---
