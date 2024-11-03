@@ -1,4 +1,4 @@
-//𝑩𝒂𝒔𝒆 𝑩𝒚 𝑻𝒐𝒙𝒙𝒊𝒄 
+//𝑩𝒂𝒔𝒆 𝑩𝒚 _Alvin_
 // 𝑫𝒐𝒏𝒕 𝑪𝒍𝒐𝒏𝒆
 
 const fs = require('fs')
@@ -23,7 +23,7 @@ ANDROID CAN USE ANY VERSION
 V1 === NO BUTTON
 V2 === BUTTON MODE */
 
-global.typemenu = 'v1' 
+global.typemenu = 'v2' 
 
 
 
@@ -45,7 +45,7 @@ global.prefa = ['','.']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = true //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
