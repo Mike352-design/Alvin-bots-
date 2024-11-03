@@ -1,6 +1,6 @@
 {
-    "name": "Zenon-Crash",
-    "version": "3.0.0",
+    "name": "GRACIE-Crash",
+    "version": "3.8.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Toxxic",
+    "author": "ALVINO",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.9",
