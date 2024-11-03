@@ -1,9 +1,9 @@
-<h1 align="center"> ZENON CRASH </h1>
+<h1 align="center"> GRACIE MD </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;ZENON +CRASH;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ; GRACIE+CRASH;WHATSAPP+BUG+BOT;CREATED+BY+ALVIN;RELEASED+02-10-24" alt="Typing SVG" /></a>
   </p>
     <a href="https://ibb.co/th8DJZN"><img src="https://i.ibb.co/th8DJZN/o.jpg" alt="o" border="0"></a>
 <p align="center">
@@ -131,4 +131,4 @@ Enjoy the diverse features of the WhatsApp Bot Toxxic Md to enhance your convers
 
 ## Developers:
 
--TOXXIC MD
+-GRACIE AND ALVIN 
