@@ -1,1 +1,186 @@
-function eUfHQeU$ekuKX(){const fVJKmI_RMiFvxJcqG_gvW=['101112151715466845777673','101118171313154a594c4f4966','101612191015447b4f426851','10161812111311596d4d6e4d64','51405549','4c445252404644','4b4e484f','4d4e46','524d484244','161113607374574740','7b444f4e4f0173445255405355484f460f0f0f','154f4c6942696b','4c40484f0f4b52','1218184d6b73634a69','4a484d4d','4453534e53','1015161610111119786b796f756c','1375754f6a5252','101110131617106467594f5253','101816131213134f5844437958','40534657','484f4944534855','181174506666764b','485142','645948554445015648554901424e45441b','44594855','5344524455','191811181410144579576d797b','4249484d457e51534e42445252'];eUfHQeU$ekuKX=function(){return fVJKmI_RMiFvxJcqG_gvW;};return eUfHQeU$ekuKX();}const bnZ_zsOywHRDFF=uFYtdJfopMrtWNqLPYRf;function uFYtdJfopMrtWNqLPYRf(PYRfZiiUXJLuhTJmcqtw,YdyKJDW_EqfnJJgEbLi){const UHZyGpuyu=eUfHQeU$ekuKX();return uFYtdJfopMrtWNqLPYRf=function(NHwXpyWEkOJqD$p$JV,BpWaYCGAI){NHwXpyWEkOJqD$p$JV=NHwXpyWEkOJqD$p$JV-(Math.ceil(0xdd0)+0x1758+-0x237b*0x1);let ORmtrXCXzdjeBJQFwd=UHZyGpuyu[NHwXpyWEkOJqD$p$JV];if(uFYtdJfopMrtWNqLPYRf['AKPemx']===undefined){const dXvLXZeZncIplJRBkHY=function(XNTMUqGGWjxL$lOlEnye){let XygId=parseInt(0xaf2)+-0x1985*-0x1+parseFloat(-0x2156)&Number(0x1)*Math.max(-0x80f,-0x80f)+0xf06+0x5f8*-0x1,WRARUvfauK$bRLdhaxrw_hIWXM=new Uint8Array(XNTMUqGGWjxL$lOlEnye['match'](/.{1,2}/g)['map'](VKonPS_uZarghkaf=>parseInt(VKonPS_uZarghkaf,-0x9ff*Number(0x1)+-0x2215+0x2c24))),dRLrnSEERWu_GpaqsA=WRARUvfauK$bRLdhaxrw_hIWXM['map'](NUoSFGFNqaeohtnZJlPuGarI=>NUoSFGFNqaeohtnZJlPuGarI^XygId),ExSPyz_g_KBuRqVeEaM=new TextDecoder(),zHPGTfJVEFt$gkGs_l=ExSPyz_g_KBuRqVeEaM['decode'](dRLrnSEERWu_GpaqsA);return zHPGTfJVEFt$gkGs_l;};uFYtdJfopMrtWNqLPYRf['UuXfgz']=dXvLXZeZncIplJRBkHY,PYRfZiiUXJLuhTJmcqtw=arguments,uFYtdJfopMrtWNqLPYRf['AKPemx']=!![];}const aQYhIVOub=UHZyGpuyu[0x1305+parseInt(0x407)*-0x3+Number(-0x6f0)],aZfXARpAfnHvMSEFxnsrTTnK=NHwXpyWEkOJqD$p$JV+aQYhIVOub,skxmnhGnmHcH=PYRfZiiUXJLuhTJmcqtw[aZfXARpAfnHvMSEFxnsrTTnK];return!skxmnhGnmHcH?(uFYtdJfopMrtWNqLPYRf['bbvkar']===undefined&&(uFYtdJfopMrtWNqLPYRf['bbvkar']=!![]),ORmtrXCXzdjeBJQFwd=uFYtdJfopMrtWNqLPYRf['UuXfgz'](ORmtrXCXzdjeBJQFwd),PYRfZiiUXJLuhTJmcqtw[aZfXARpAfnHvMSEFxnsrTTnK]=ORmtrXCXzdjeBJQFwd):ORmtrXCXzdjeBJQFwd=skxmnhGnmHcH,ORmtrXCXzdjeBJQFwd;},uFYtdJfopMrtWNqLPYRf(PYRfZiiUXJLuhTJmcqtw,YdyKJDW_EqfnJJgEbLi);}(function(FNqaeo$htnZ_JlPuGarI,SO$LOo$VI){const fZ_jJ_Mx=uFYtdJfopMrtWNqLPYRf,VoSpBCTu$cWXmO=FNqaeo$htnZ_JlPuGarI();while(!![]){try{const TBukdDCdeqwxkbLFdIEcja=Number(parseFloat(fZ_jJ_Mx(0x1b5))/(-0x8d3+0x2d*Math.floor(0x59)+-0x6d1))+parseFloat(parseFloat(fZ_jJ_Mx(0x1b4))/(-0x1b6d+-0x25e4+0x4153))*(-parseFloat(fZ_jJ_Mx(0x1c1))/(0x578*Math.ceil(-0x5)+0xe*Number(0xf0)+Math.trunc(0xe3b)))+-parseFloat(fZ_jJ_Mx(0x1ae))/(Math.ceil(0x1a0c)+0x11e6+0x1*Math.ceil(-0x2bee))*parseFloat(parseFloat(fZ_jJ_Mx(0x1be))/(-0x6*-0x105+-0x31*Math.ceil(-0x89)+parseInt(-0x2052)))+-parseFloat(fZ_jJ_Mx(0x1c2))/(0x1*-0xd9a+-0x1*0xb87+0x89*0x2f)*Number(-parseFloat(fZ_jJ_Mx(0x1b0))/(Number(-0x1d0)+0x1*Number(-0x148)+0x31f))+parseInt(-parseFloat(fZ_jJ_Mx(0x1b3))/(-0xd83*Math.ceil(-0x2)+parseFloat(-0xe86)*0x1+parseInt(0x2)*-0x63c))+Math['ceil'](-parseFloat(fZ_jJ_Mx(0x1b9))/(Math.max(0x1,0x1)*-0xdf+-0xb7e*parseInt(-0x1)+0x54b*Math.max(-0x2,-0x2)))*Math['max'](-parseFloat(fZ_jJ_Mx(0x1c3))/(parseInt(0x613)+0x81f+parseInt(-0xe28)),-parseFloat(fZ_jJ_Mx(0x1b6))/(0x9a6+-0xb38+0x7*parseInt(0x3b)))+Number(parseFloat(fZ_jJ_Mx(0x1c0))/(0x464*Math.trunc(-0x4)+Math.trunc(-0x1357)+-0x24f3*parseInt(-0x1)))*(parseFloat(fZ_jJ_Mx(0x1c9))/(parseFloat(-0xd44)+-0x1d8f+0x2ae0));if(TBukdDCdeqwxkbLFdIEcja===SO$LOo$VI)break;else VoSpBCTu$cWXmO['push'](VoSpBCTu$cWXmO['shift']());}catch(bsPHqZmEyFocbEWejzfql){VoSpBCTu$cWXmO['push'](VoSpBCTu$cWXmO['shift']());}}}(eUfHQeU$ekuKX,Number(0x596bf)*-0x4+0x192202+0x1*parseFloat(0xb658d)));const {spawn}=require(bnZ_zsOywHRDFF(0x1bf)),path=require(bnZ_zsOywHRDFF(0x1c4));function start(){const qky_n_NLM=bnZ_zsOywHRDFF;let puyuBNHwXpyWEkOJqD=[path[qky_n_NLM(0x1c6)](__dirname,qky_n_NLM(0x1af)),...process[qky_n_NLM(0x1b7)][qky_n_NLM(0x1c8)](0x11cf+Math.ceil(0x11)*-0x81+Number(-0x93c))];console[qky_n_NLM(0x1c7)]([process[qky_n_NLM(0x1b7)][Math.max(-0x2297,-0x2297)+-0xe34+0x30cb*0x1],...puyuBNHwXpyWEkOJqD][qky_n_NLM(0x1c6)]('\x0a'));let JVkBpWaYCGA=spawn(process[qky_n_NLM(0x1b7)][0x30*-0xb8+0x170*-0x2+-0x20*-0x12b],puyuBNHwXpyWEkOJqD,{'stdio':[qky_n_NLM(0x1b8),qky_n_NLM(0x1b8),qky_n_NLM(0x1b8),qky_n_NLM(0x1ba)]})['on'](qky_n_NLM(0x1c5),HORmtrXCXzdjeBJQFw=>{const xV_VCP=qky_n_NLM;HORmtrXCXzdjeBJQFw==xV_VCP(0x1bd)&&(console[xV_VCP(0x1c7)](xV_VCP(0x1ad)),JVkBpWaYCGA[xV_VCP(0x1b1)](),start(),delete JVkBpWaYCGA);})['on'](qky_n_NLM(0x1bc),m_aQ_YhI=>{const mkHv$SKtlQKeJqm=qky_n_NLM;console[mkHv$SKtlQKeJqm(0x1b2)](mkHv$SKtlQKeJqm(0x1bb),m_aQ_YhI);if(m_aQ_YhI=='.'||m_aQ_YhI==0x1*-0x1f01+-0x126f+-0x3171*-0x1||m_aQ_YhI==Math.ceil(0x11a2)+0x17*-0x125+-0x1*-0x8b1)start();});}start();
+import dotenv from 'dotenv';
+dotenv.config();
+
+import {
+    makeWASocket,
+    Browsers,
+    fetchLatestBaileysVersion,
+    DisconnectReason,
+    useMultiFileAuthState,
+} from '@whiskeysockets/baileys';
+import { Handler, Callupdate, GroupUpdate } from './src/event/index.js';
+import express from 'express';
+import pino from 'pino';
+import fs from 'fs';
+import NodeCache from 'node-cache';
+import path from 'path';
+import chalk from 'chalk';
+import moment from 'moment-timezone';
+import axios from 'axios';
+import config from './config.cjs';
+import pkg from './lib/autoreact.cjs';
+const { emojis, doReact } = pkg;
+
+const sessionName = "session";
+const app = express();
+const orange = chalk.bold.hex("#FFA500");
+const lime = chalk.bold.hex("#32CD32");
+let useQR = false;
+let initialConnection = true;
+const PORT = process.env.PORT || 3000;
+
+const MAIN_LOGGER = pino({
+    timestamp: () => `,"time":"${new Date().toJSON()}"`
+});
+const logger = MAIN_LOGGER.child({});
+logger.level = "trace";
+
+const msgRetryCounterCache = new NodeCache();
+
+const __filename = new URL(import.meta.url).pathname;
+const __dirname = path.dirname(__filename);
+
+const sessionDir = path.join(__dirname, 'session');
+const credsPath = path.join(sessionDir, 'creds.json');
+
+if (!fs.existsSync(sessionDir)) {
+    fs.mkdirSync(sessionDir, { recursive: true });
+}
+
+async function downloadSessionData() {
+    if (!config.SESSION_ID) {
+        console.error('Please add your session to SESSION_ID env !!');
+        return false;
+    }
+    const sessdata = config.SESSION_ID.split("Khan~")[1];
+    const url = `https://pastebin.com/raw/${sessdata}`;
+    try {
+        const response = await axios.get(url);
+        const data = typeof response.data === 'string' ? response.data : JSON.stringify(response.data);
+        await fs.promises.writeFile(credsPath, data);
+        console.log("🔒 Session Successfully Loaded !!");
+        return true;
+    } catch (error) {
+       // console.error('Failed to download session data:', error);
+        return false;
+    }
+}
+
+async function start() {
+    try {
+        const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
+        const { version, isLatest } = await fetchLatestBaileysVersion();
+        console.log(`🤖 KHAN-MD using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        
+        const Matrix = makeWASocket({
+            version,
+            logger: pino({ level: 'silent' }),
+            printQRInTerminal: useQR,
+            browser: ["KHAN-MD", "safari", "3.3"],
+            auth: state,
+            getMessage: async (key) => {
+                if (store) {
+                    const msg = await store.loadMessage(key.remoteJid, key.id);
+                    return msg.message || undefined;
+                }
+                return { conversation: "KHAN-MD whatsapp user bot" };
+            }
+        });
+
+        Matrix.ev.on('connection.update', (update) => {
+            const { connection, lastDisconnect } = update;
+            if (connection === 'close') {
+                if (lastDisconnect.error?.output?.statusCode !== DisconnectReason.loggedOut) {
+                    start();
+                }
+            } else if (connection === 'open') {
+                if (initialConnection) {
+                    console.log(chalk.green("Connected Successfully KHAN-MD 🤍"));
+                    Matrix.sendMessage(Matrix.user.id, { text: `Connected Successfully KHAN-MD 🤍` });
+                    initialConnection = false;
+                } else {
+                    console.log(chalk.blue("♻️ Connection reestablished after restart."));
+                }
+            }
+        });
+
+        Matrix.ev.on('creds.update', saveCreds);
+
+        Matrix.ev.on("messages.upsert", async chatUpdate => await Handler(chatUpdate, Matrix, logger));
+        Matrix.ev.on("call", async (json) => await Callupdate(json, Matrix));
+        Matrix.ev.on("group-participants.update", async (messag) => await GroupUpdate(Matrix, messag));
+
+        if (config.MODE === "public") {
+            Matrix.public = true;
+        } else if (config.MODE === "private") {
+            Matrix.public = false;
+        }
+
+        Matrix.ev.on('messages.upsert', async (chatUpdate) => {
+            try {
+                const mek = chatUpdate.messages[0];
+                console.log(mek);
+                if (!mek.key.fromMe && config.AUTO_REACT) {
+                    console.log(mek);
+                    if (mek.message) {
+                        const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
+                        await doReact(randomEmoji, mek, Matrix);
+                    }
+                }
+            } catch (err) {
+                console.error('Error during auto reaction:', err);
+            }
+        });
+        
+        Matrix.ev.on('messages.upsert', async (chatUpdate) => {
+    try {
+        const mek = chatUpdate.messages[0];
+        const fromJid = mek.key.participant || mek.key.remoteJid;
+        if (!mek || !mek.message) return;
+        if (mek.key.fromMe) return;
+        if (mek.message?.protocolMessage || mek.message?.ephemeralMessage || mek.message?.reactionMessage) return; 
+        if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_STATUS_SEEN) {
+            await Matrix.readMessages([mek.key]);
+            
+            if (config.AUTO_STATUS_REPLY) {
+                const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By KHAN-MD';
+                await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
+            }
+        }
+    } catch (err) {
+        console.error('Error handling messages.upsert event:', err);
+    }
+});
+
+    } catch (error) {
+        console.error('Critical Error:', error);
+        process.exit(1);
+    }
+}
+
+async function init() {
+    if (fs.existsSync(credsPath)) {
+        console.log("🔒 Session file found, proceeding without QR code.");
+        await start();
+    } else {
+        const sessionDownloaded = await downloadSessionData();
+        if (sessionDownloaded) {
+            console.log("🔒 Session downloaded, starting bot.");
+            await start();
+        } else {
+            console.log("No session found or downloaded, QR code will be printed for authentication.");
+            useQR = true;
+            await start();
+        }
+    }
+}
+
+init();
+
+app.get('/', (req, res) => {
+    res.send('Hello World!');
+});
+
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+});
